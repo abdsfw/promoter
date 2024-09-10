@@ -22,7 +22,7 @@ each specific group is responsible for a promoter, The promoter can create or mo
 The login interface enables the promoter to log in to the application, where he previously takes his account from the manager.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/login_screen.jpg">
+  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/login_screen.jpg" , width=300>
 </div> 
 
 ### home screen
@@ -30,7 +30,7 @@ The login interface enables the promoter to log in to the application, where he 
 On the home screen, the main section buttons of the application appear, which are **Bills**, **Envelopes**, and **Inventory**.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/home_screen.jpg">
+  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/home_screen.jpg", width=300>
 </div>
 
 ### Envelopes screen
@@ -38,7 +38,7 @@ On the home screen, the main section buttons of the application appear, which ar
 In the envelopes screen, you can choose the promoter's point of sale to see his envelopes and edit it.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/point_of_sale_list.jpg">
+  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/point_of_sale_list.jpg", width=300>
 </div>
 
 ### inventory screen
@@ -46,7 +46,7 @@ In the envelopes screen, you can choose the promoter's point of sale to see his 
 On this screen you can see the inventory of the point of sale.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/point_of_sale_inventory.jpg">
+  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/point_of_sale_inventory.jpg", width=300>
 </div>
 
 ### bill screen
@@ -54,6 +54,6 @@ On this screen you can see the inventory of the point of sale.
 On this screen, point of sale invoices can be viewed, modified, or new invoices added.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/bills_screen.jpg">
+  <img src = "https://raw.githubusercontent.com/abdsfw/promoter/main/assets/images/bills_screen.jpg", width=300>
 </div>
 
